@@ -1,6 +1,6 @@
-<h1 align="center">Hey there, I'm Muhammad Aqib Ali 👋</h1>
+<h1 align="center">Hey there, I'm Muhammad Aqib Ali</h1>
 
-<h3 align="center">🚀 Full-Stack Developer | GenAI & Machine Learning Engineer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | GenAI & Machine Learning Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;Fine-tuning+LLMs+%26+deploying+ML+pipelines;Full-Stack+%2B+AI+%2B+Cybersecurity" alt="Typing SVG" />
@@ -14,15 +14,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & Technology, Gujranwala)**, working across full-stack development, applied AI/ML, and cybersecurity. I build systems that go from research notebook to deployed product — from medical imaging classifiers to VR rehabilitation platforms to autonomous AI agents.
+I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & Technology, Gujranwala)**, passionate about building intelligent, secure, and scalable software. I enjoy combining full-stack engineering with applied AI to design systems that are practical, well-tested, and ready for real-world use.
 
 🔬 **Currently building:** An AI-Driven VR Neuro-Rehabilitation Platform (Final Year Project) covering phobia exposure therapy, ADHD rehabilitation, and ASD sensory regulation with a unified clinician dashboard.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Languages**
 <p align="center">
@@ -74,7 +74,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 
 ---
 
-### 🌟 Featured Research & Academic Projects
+### Featured Research & Academic Projects
 
 > These are my strongest, most differentiated technical projects — the ones I lead with when talking to recruiters.
 
@@ -84,14 +84,13 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 | 🕶️ **AI-Driven VR Neuro-Rehabilitation Platform** *(FYP)* | Meta Quest VR platform for phobia, ADHD, and ASD therapy with a unified clinician dashboard. |
 | 👁️ **Diabetic Retinopathy Grading** | Messidor-2 dataset with CLAHE, Focal Loss, CBAM attention, and a VGG16/ResNet50/InceptionV4-style ensemble. |
 | 🚗 **IoV Intrusion Detection (Deep RL)** | Dueling Double DQN + Prioritized Experience Replay for vehicular network intrusion detection (VeReMi dataset). |
-| ⚙️ **Apache ZooKeeper v3.4 vs v3.6** | C++ MPI simulations of consensus limitations/improvements with formal Labeled Transition System analysis. |
 
 ---
 
-### 🤖 AI Ecosystem & Deployed Tools (Hugging Face + GitHub)
+### AI Ecosystem & Deployed Tools (Hugging Face + GitHub)
 
 <details open>
-<summary><b>👁️ Computer Vision & Core AI Hub</b></summary>
+<summary><b>Computer Vision & Core AI Hub</b></summary>
 <br>
 
 | Project | Description | Repo | Live Demo |
@@ -102,7 +101,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 </details>
 
 <details>
-<summary><b>💼 Productivity, HR & EdTech Tools</b></summary>
+<summary><b>Productivity, HR & EdTech Tools</b></summary>
 <br>
 
 | Project | Description | Repo | Live Demo |
@@ -116,7 +115,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 </details>
 
 <details>
-<summary><b>🌐 Intelligent Automation & Scrapers</b></summary>
+<summary><b>Intelligent Automation & Scrapers</b></summary>
 <br>
 
 | Project | Description | Repo | Live Demo |
@@ -128,7 +127,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 </details>
 
 <details>
-<summary><b>🎙️ Media, Voice & Agents</b></summary>
+<summary><b>Media, Voice & Agents</b></summary>
 <br>
 
 | Project | Description | Repo | Live Demo |
@@ -143,7 +142,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 
 ---
 
-### 💡 Other Highlighted Repos
+### Other Highlighted Repos
 
 - 🏆 **[Emotion-Recognition-Android-app](https://github.com/MuhammadAqibAli53/Emotion-Recognition-Android-app)** — Real-time text emotion analysis using a lightweight, optimized TFLite BERT model
 - 🧩 **[AI-Prompt-Engineer-Prompt-Optimizer-Generator](https://github.com/MuhammadAqibAli53/AI-Prompt-Engineer-Prompt-Optimizer-Generator)** — Structures, optimizes, and generates hyper-effective prompts for LLMs
@@ -152,7 +151,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAqibAli53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -169,7 +168,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 
 ---
 
-###  Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-aqib-ali-0b95222b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
