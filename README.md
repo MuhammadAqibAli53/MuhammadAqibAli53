@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Muhammad Aqib Ali 👋</h1>
 
-<h3 align="center">🚀 Full-Stack Developer | GenAI & Machine Learning Engineer | Cybersecurity Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | GenAI & Deep Learning Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;Fine-tuning+LLMs+%26+deploying+ML+pipelines;Full-Stack+%2B+AI+%2B+Cybersecurity;Open+to+Internships+%E2%80%94+Islamabad+%2F+Lahore" alt="Typing SVG" />
@@ -25,20 +25,52 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 
 ### 🛠️ Tech Stack & Skills
 
+**Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
+
+**Frameworks & Web**
+<p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MVC%20Architecture-2F80ED?style=flat-square">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square">
+  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+</p>
+
+**AI / Deep Learning**
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/XGBoost-0E76A8?style=flat-square">
+  <img src="https://img.shields.io/badge/CNNs-8A2BE2?style=flat-square">
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=flat-square">
   <img src="https://img.shields.io/badge/Vision%20Transformers-4B0082?style=flat-square">
+  <img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square">
+  <img src="https://img.shields.io/badge/Generative%20AI-6E44FF?style=flat-square">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00B4D8?style=flat-square">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/SHAP%20%2F%20LIME-2E8B57?style=flat-square">
+</p>
+
+**Tools & Platforms**
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Android%20NDK-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Meta%20Quest%20VR-000000?style=flat-square&logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-FF4B4B?style=flat-square">
 </p>
 
 ---
@@ -47,15 +79,13 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 
 > These are my strongest, most differentiated technical projects — the ones I lead with when talking to recruiters.
 
-| Project | Highlights |
+| Project | Description |
 |---|---|
-| 🧠 **Parkinson's Disease Classification Pipeline** | 11-model deep learning pipeline on the PPMI dataset — XGBoost, Random Forest, SVM stacking, custom CNN, VGG16 transfer learning, soft-voting DL ensembles, pretrained ViT, 1D-CNN, and Tabular Transformer. Includes wavelet denoising, GLCM/LBP feature extraction, SHAP/LIME explainability, and a 15-page technical report. |
-| 🕶️ **AI-Driven VR Neuro-Rehabilitation Platform** *(FYP, in progress)* | Meta Quest VR platform with 3 therapy modules — phobia exposure, ADHD rehabilitation, ASD sensory regulation — unified under a single clinician dashboard. |
-| 👁️ **Diabetic Retinopathy Grading** | Messidor-2 dataset with CLAHE preprocessing, Focal Loss, CBAM attention, and class-balanced augmentation; VGG16/ResNet50/InceptionV4-style ensemble. |
-| 🚗 **IoV Intrusion Detection (Deep RL)** | Dueling Double DQN + Prioritized Experience Replay + self-attention feature weighting, trained on the VeReMi dataset. |
-| ⚙️ **Apache ZooKeeper v3.4 vs v3.6 (PDC)** | Group project with C++ MPI simulations of consensus limitations/improvements, live demos, and formal Labeled Transition System equivalence analysis. |
-
-*(Consider creating a public repo for each — even a clean notebook + README — so these show up as real, browsable projects rather than just claims on a resume.)*
+| 🧠 **Parkinson's Disease Classification** | 11-model DL pipeline on the PPMI dataset (CNN, VGG16, ViT, XGBoost, ensembles) with SHAP/LIME explainability. |
+| 🕶️ **AI-Driven VR Neuro-Rehabilitation Platform** *(FYP)* | Meta Quest VR platform for phobia, ADHD, and ASD therapy with a unified clinician dashboard. |
+| 👁️ **Diabetic Retinopathy Grading** | Messidor-2 dataset with CLAHE, Focal Loss, CBAM attention, and a VGG16/ResNet50/InceptionV4-style ensemble. |
+| 🚗 **IoV Intrusion Detection (Deep RL)** | Dueling Double DQN + Prioritized Experience Replay for vehicular network intrusion detection (VeReMi dataset). |
+| ⚙️ **Apache ZooKeeper v3.4 vs v3.6** | C++ MPI simulations of consensus limitations/improvements with formal Labeled Transition System analysis. |
 
 ---
 
