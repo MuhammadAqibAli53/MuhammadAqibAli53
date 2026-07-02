@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Muhammad Aqib Ali 👋</h1>
 
-<h3 align="center">🚀 Full-Stack Developer | GenAI & Deep Learning Engineer | Cybersecurity Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | GenAI & Machine Learning Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;Fine-tuning+LLMs+%26+deploying+ML+pipelines;Full-Stack+%2B+AI+%2B+Cybersecurity;Open+to+Internships+%E2%80%94+Islamabad+%2F+Lahore" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;Fine-tuning+LLMs+%26+deploying+ML+pipelines;Full-Stack+%2B+AI+%2B+Cybersecurity" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,6 @@
 
 I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & Technology, Gujranwala)**, working across full-stack development, applied AI/ML, and cybersecurity. I build systems that go from research notebook to deployed product — from medical imaging classifiers to VR rehabilitation platforms to autonomous AI agents.
 
-🎯 **Currently:** Looking for a 2-month Software Engineering / AI-ML internship in Islamabad or Lahore.
 🔬 **Currently building:** An AI-Driven VR Neuro-Rehabilitation Platform (Final Year Project) covering phobia exposure therapy, ADHD rehabilitation, and ASD sensory regulation with a unified clinician dashboard.
 
 ---
@@ -153,7 +152,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAqibAli53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -170,7 +169,7 @@ I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & 
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-aqib-ali-0b95222b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
