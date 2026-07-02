@@ -1,75 +1,149 @@
-# 👋 Hey there! I'm Muhammad Aqib Ali
+<h1 align="center">Hey there, I'm Muhammad Aqib Ali 👋</h1>
 
-### 🚀 Full-Stack Developer | GenAI & Machine Learning Specialist | Cybersecurity 
+<h3 align="center">🚀 Full-Stack Developer | GenAI & Machine Learning Engineer | Cybersecurity Enthusiast</h3>
 
-I am a Computer Science student at UET Lahore specializing in building intelligent, secure web applications and advanced AI systems. From fine-tuning LLMs to crafting robust full-stack architectures, I build production-ready solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;Fine-tuning+LLMs+%26+deploying+ML+pipelines;Full-Stack+%2B+AI+%2B+Cybersecurity;Open+to+Internships+%E2%80%94+Islamabad+%2F+Lahore" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-aqib-ali-0b95222b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://huggingface.co/aqibali06"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+  <a href="mailto:m.aqibali1m.aqibali1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & Technology, Gujranwala)**, working across full-stack development, applied AI/ML, and cybersecurity. I build systems that go from research notebook to deployed product — from medical imaging classifiers to VR rehabilitation platforms to autonomous AI agents.
+
+🎯 **Currently:** Looking for a 2-month Software Engineering / AI-ML internship in Islamabad or Lahore.
+🔬 **Currently building:** An AI-Driven VR Neuro-Rehabilitation Platform (Final Year Project) covering phobia exposure therapy, ADHD rehabilitation, and ASD sensory regulation with a unified clinician dashboard.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, PHP, C++, JavaScript, HTML/CSS
-- **Frameworks:** Laravel, React.js, TFLite
-- **AI & Deep Learning:** Generative AI, BERT, CNNs, Vision Transformers, Prompt Engineering
-- **Tools & Platforms:** Git, Android (NDK/Java), Hugging Face, Meta Quest (VR Development)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Vision%20Transformers-4B0082?style=flat-square">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Android%20NDK-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Meta%20Quest%20VR-000000?style=flat-square&logo=meta&logoColor=white">
+</p>
 
 ---
 
-### 🌟 Featured Core Projects
+### 🌟 Featured Research & Academic Projects
 
-* **[Emotion-Recognition-Android-app](https://github.com/MuhammadAqibAli53/Emotion-Recognition-Android-app)** – An Android application using a lightweight, optimized TFLite BERT model for real-time text emotion analysis.
-* **[AI-Prompt-Engineer-Prompt-Optimizer-Generator](https://github.com/MuhammadAqibAli53/AI-Prompt-Engineer-Prompt-Optimizer-Generator)** – An advanced tool to structure, optimize, and generate hyper-effective prompts for LLMs.
-* **[Agent-deployer](https://github.com/MuhammadAqibAli53/Agent-deployer)** – Framework designed for orchestrating and deploying autonomous AI agents.
+> These are my strongest, most differentiated technical projects — the ones I lead with when talking to recruiters.
+
+| Project | Highlights |
+|---|---|
+| 🧠 **Parkinson's Disease Classification Pipeline** | 11-model deep learning pipeline on the PPMI dataset — XGBoost, Random Forest, SVM stacking, custom CNN, VGG16 transfer learning, soft-voting DL ensembles, pretrained ViT, 1D-CNN, and Tabular Transformer. Includes wavelet denoising, GLCM/LBP feature extraction, SHAP/LIME explainability, and a 15-page technical report. |
+| 🕶️ **AI-Driven VR Neuro-Rehabilitation Platform** *(FYP, in progress)* | Meta Quest VR platform with 3 therapy modules — phobia exposure, ADHD rehabilitation, ASD sensory regulation — unified under a single clinician dashboard. |
+| 👁️ **Diabetic Retinopathy Grading** | Messidor-2 dataset with CLAHE preprocessing, Focal Loss, CBAM attention, and class-balanced augmentation; VGG16/ResNet50/InceptionV4-style ensemble. |
+| 🚗 **IoV Intrusion Detection (Deep RL)** | Dueling Double DQN + Prioritized Experience Replay + self-attention feature weighting, trained on the VeReMi dataset. |
+| ⚙️ **Apache ZooKeeper v3.4 vs v3.6 (PDC)** | Group project with C++ MPI simulations of consensus limitations/improvements, live demos, and formal Labeled Transition System equivalence analysis. |
+
+*(Consider creating a public repo for each — even a clean notebook + README — so these show up as real, browsable projects rather than just claims on a resume.)*
 
 ---
 
-### 🤖 Hugging Face AI Ecosystem & Spaces
+### 🤖 AI Ecosystem & Deployed Tools (Hugging Face + GitHub)
 
-I have built and deployed a diverse suite of autonomous agents, computer vision pipelines, and web automation tools. Below are the individual repositories and their live deployments.
+<details open>
+<summary><b>👁️ Computer Vision & Core AI Hub</b></summary>
+<br>
 
-#### 👁️ Computer Vision & Core AI Hub
-| Project Name | Description | Repository Link | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **Potato Disease** | Classify potato leaf health from a photo using deep learning. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Potato-Disease) | [HF Space](https://huggingface.co/spaces/aqibali06/potato_disease) |
-| **Aqib AI Hub** | A short, centralized interactive portfolio displaying my AI builds. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Aqib-AI-Hub) | [HF Space](https://huggingface.co/spaces/aqibali06/Aqib-AI-Hub) |
+| Project | Description | Repo | Live Demo |
+|---|---|:---:|:---:|
+| Potato Disease Classifier | Classifies potato leaf health from a photo using deep learning | [GitHub](#) | [HF Space](#) |
+| Aqib AI Hub | Centralized interactive portfolio of my AI builds | [GitHub](#) | [HF Space](#) |
 
-#### 🧰 Productivity, HR & EdTech Tools
-| Project Name | Description | Repository Link | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **ResumeRanker AI** | Analyzes resumes to provide smart job-matching suggestions. | [GitHub Repo](https://github.com/MuhammadAqibAli53/ResumeRanker-AI) | [HF Space](https://huggingface.co/spaces/aqibali06/ResumeRanker_AI) |
-| **AI Resume Cover Letter Builder** | Generates tailored, professional cover letters using profile context. | [GitHub Repo](https://github.com/MuhammadAqibAli53/AI-Resume-Cover-Letter-Builder) | [HF Space](https://huggingface.co/spaces/aqibali06/AI-Resume-Cover-Letter-Builder) |
-| **Academic Research Assistant**| Answers complex academic questions directly from uploaded PDFs. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Academic-Research-Assistant) | [HF Space](https://huggingface.co/spaces/aqibali06/Academic-Research-Assistant) |
-| **Student Rag System** | Upload multiple documents and ask questions to get context-aware answers. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Student-Rag-System) | [HF Space](https://huggingface.co/spaces/aqibali06/Student-Rag-System) |
-| **Career Adviser** | Provides highly personalized career advice based on a user profile. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Career-Adviser) | [HF Space](https://huggingface.co/spaces/aqibali06/Career-Adviser) |
+</details>
 
-#### 🌐 Intelligent Automation & Scrapers
-| Project Name | Description | Repository Link | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **Website Code Generator** | Generates ready-to-use HTML code directly from text or images. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Website-Code-Generator) | [HF Space](https://huggingface.co/spaces/aqibali06/Website-Code-Generator) |
-| **Web Scraper** | Seamlessly extracts contact details from imprint pages. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Web-Scraper) | [HF Space](https://huggingface.co/spaces/aqibali06/Web-Scraper) |
-| **Gpt Enhanced Web Scraper** | Extracts structured contact info from complex website imprints. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Gpt-Enhanced-Web-Scraper) | [HF Space](https://huggingface.co/spaces/aqibali06/Gpt-Enhanced-Web-Scraper) |
+<details>
+<summary><b>💼 Productivity, HR & EdTech Tools</b></summary>
+<br>
 
-#### 🎙️ Media, Voice & Agents
-| Project Name | Description | Repository Link | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **VidScribe AI** | An AI-powered app to transcribe, translate, and summarize videos. | [GitHub Repo](https://github.com/MuhammadAqibAli53/VidScribe-AI) | [HF Space](https://huggingface.co/spaces/aqibali06/VidScribe-AI) |
-| **Voice Assistant** | An interactive voice model reacting to real-time audio inputs. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Voice-Assistant) | [HF Space](https://huggingface.co/spaces/aqibali06/Voice-Assistant) |
-| **AI Model Fetcher** | Generates smart AI engine responses from spoken voice input. | [GitHub Repo](https://github.com/MuhammadAqibAli53/AI-Model-Fetcher) | [HF Space](https://huggingface.co/spaces/aqibali06/AI-Model-Fetcher) |
-| **Tourist Guide Bot** | AI-powered local travel guide assistant utilizing Gradio and LLMs. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Tourist-Guide-Bot) | [HF Space](https://huggingface.co/spaces/aqibali06/Tourist-Guide-Bot) |
-| **AI Travel Assistant** | Answers specific trip queries using location-aware details. | [GitHub Repo](https://github.com/MuhammadAqibAli53/AI-Travel-Assistant) | [HF Space](https://huggingface.co/spaces/aqibali06/AI-Travel-Assistant) |
+| Project | Description | Repo | Live Demo |
+|---|---|:---:|:---:|
+| ResumeRanker AI | Analyzes resumes and gives smart job-matching suggestions | [GitHub](#) | [HF Space](#) |
+| AI Resume Cover Letter Builder | Generates tailored, professional cover letters from profile context | [GitHub](#) | [HF Space](#) |
+| Academic Research Assistant | Answers complex academic questions from uploaded PDFs | [GitHub](#) | [HF Space](#) |
+| Student RAG System | Multi-document upload with context-aware Q&A | [GitHub](#) | [HF Space](#) |
+| Career Adviser | Personalized career advice based on a user profile | [GitHub](#) | [HF Space](#) |
+
+</details>
+
+<details>
+<summary><b>🌐 Intelligent Automation & Scrapers</b></summary>
+<br>
+
+| Project | Description | Repo | Live Demo |
+|---|---|:---:|:---:|
+| Website Code Generator | Generates ready-to-use HTML from text or images | [GitHub](#) | [HF Space](#) |
+| Web Scraper | Extracts contact details from imprint pages | [GitHub](#) | [HF Space](#) |
+| GPT-Enhanced Web Scraper | Extracts structured contact info from complex site imprints | [GitHub](#) | [HF Space](#) |
+
+</details>
+
+<details>
+<summary><b>🎙️ Media, Voice & Agents</b></summary>
+<br>
+
+| Project | Description | Repo | Live Demo |
+|---|---|:---:|:---:|
+| VidScribe AI | Transcribes, translates, and summarizes videos | [GitHub](#) | [HF Space](#) |
+| Voice Assistant | Interactive voice model reacting to real-time audio | [GitHub](#) | [HF Space](#) |
+| AI Model Fetcher | Smart AI engine responses from spoken voice input | [GitHub](#) | [HF Space](#) |
+| Tourist Guide Bot | AI local travel guide using Gradio + LLMs | [GitHub](#) | [HF Space](#) |
+| AI Travel Assistant | Location-aware answers to specific trip queries | [GitHub](#) | [HF Space](#) |
+
+</details>
+
+---
+
+### 💡 Other Highlighted Repos
+
+- 🏆 **[Emotion-Recognition-Android-app](https://github.com/MuhammadAqibAli53/Emotion-Recognition-Android-app)** — Real-time text emotion analysis using a lightweight, optimized TFLite BERT model
+- 🧩 **[AI-Prompt-Engineer-Prompt-Optimizer-Generator](https://github.com/MuhammadAqibAli53/AI-Prompt-Engineer-Prompt-Optimizer-Generator)** — Structures, optimizes, and generates hyper-effective prompts for LLMs
+- 🕸️ **[Agent-deployer](https://github.com/MuhammadAqibAli53/Agent-deployer)** — Framework for orchestrating and deploying autonomous AI agents
+- 🔒 **Secure-software-design-DFD** — Data flow diagram-based secure software design work
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAqibAli53&show_icons=true&theme=radical" alt="Aqib's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAqibAli53&theme=radical" alt="GitHub Streak" height="180" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAqibAli53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAqibAli53&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAqibAli53&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAqibAli53&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqib-ali-0b95222b9)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)](https://huggingface.co/aqibali06/spaces)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-aqib-ali-0b95222b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://huggingface.co/aqibali06"><img src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+  <a href="https://huggingface.co/aqibali06/spaces"><img src="https://img.shields.io/badge/Spaces-Explore-yellow?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+</p>
