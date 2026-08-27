@@ -19,7 +19,7 @@
 
 ---
 
-## About Me
+## ❖ About Me
 
 I am a Computer Science student at **UET Lahore (Rachna College of Engineering & Technology, Gujranwala)**[cite: 1]. I enjoy combining software engineering, artificial intelligence, academic research, and security to build intelligent systems[cite: 1]. 
 
@@ -30,7 +30,7 @@ Rather than just experimenting with models in notebooks, my focus is on building
 
 ---
 
-## Technical Expertise
+## ❖ Technical Expertise
 
 ### Programming
 *   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"> — Core logic, backend services, and model scripting[cite: 1].
@@ -56,92 +56,194 @@ Rather than just experimenting with models in notebooks, my focus is on building
 
 ---
 
-## Featured Projects
+## ❖ Featured Projects
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Parkinson's Disease Classification** | Developed an 11-model deep learning pipeline using the PPMI dataset. Implemented CNNs, VGG16, Vision Transformers, and XGBoost ensembles, integrated with SHAP/LIME for model explainability[cite: 1]. | [Kaggle Notebook](https://www.kaggle.com/code/muhammadaqibali/ppmi-pd-classification-ml-dl-transformer) |
-| **Potato Disease Classification** | Built a complete deep-learning-powered web application for classifying potato leaf health, accurately detecting Early Blight and Late Blight diseases[cite: 1]. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Potato_Disease_classification) |
-| **VR Neuro-Rehabilitation Platform** | FYP academic platform utilizing Meta Quest for neuro-rehabilitation therapy contexts (Phobia, ADHD, ASD) alongside a clinician tracking dashboard[cite: 1]. | *Academic Project* |
-| **Diabetic Retinopathy Grading** | Processed the Messidor-2 dataset using CLAHE and Focal Loss. Designed an ensemble architecture featuring VGG16, ResNet50, and Inception-style models with CBAM attention[cite: 1]. | *Research Prototype* |
-| **IoV Intrusion Detection** | Applied Deep Reinforcement Learning for vehicular network security using Dueling Double DQN and Prioritized Experience Replay on the VeReMi dataset[cite: 1]. | *Research Prototype* |
+### ⯌ Parkinson's Disease Classification
+> Developed an 11-model deep learning pipeline using the PPMI dataset. Implemented CNNs, VGG16, Vision Transformers, and XGBoost ensembles, integrated with SHAP/LIME for model explainability[cite: 1].
+<div align="right">
+  <a href="https://www.kaggle.com/code/muhammadaqibali/ppmi-pd-classification-ml-dl-transformer"><img src="https://img.shields.io/badge/View_Kaggle_Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white"></a>
+</div>
 
 ---
 
-## AI Projects Portfolio
+### ⯌ Potato Disease Classification
+> Built a complete deep-learning-powered web application for classifying potato leaf health, accurately detecting Early Blight and Late Blight diseases[cite: 1].
+<div align="right">
+  <a href="https://github.com/MuhammadAqibAli53/Potato_Disease_classification"><img src="https://img.shields.io/badge/View_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
+</div>
 
-<details>
-<summary><b>Computer Vision</b></summary>
+---
+
+### ⯌ VR Neuro-Rehabilitation Platform
+> FYP academic platform utilizing Meta Quest for neuro-rehabilitation therapy contexts (Phobia, ADHD, ASD) alongside a clinician tracking dashboard[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Academic_Research-blue?style=flat-square">
+</div>
+
+---
+
+### ⯌ Diabetic Retinopathy Grading
+> Processed the Messidor-2 dataset using CLAHE and Focal Loss. Designed an ensemble architecture featuring VGG16, ResNet50, and Inception-style models with CBAM attention[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Research_Prototype-blue?style=flat-square">
+</div>
+
+---
+
+### ⯌ IoV Intrusion Detection
+> Applied Deep Reinforcement Learning for vehicular network security using Dueling Double DQN and Prioritized Experience Replay on the VeReMi dataset[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Research_Prototype-blue?style=flat-square">
+</div>
+
+---
+
+## ❖ AI Projects Portfolio
+
+<details open>
+<summary><kbd>✦ Computer Vision</kbd></summary>
 <br>
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Emotion Recognition App** | Real-time text emotion analysis using a lightweight, optimized TFLite BERT model on Android[cite: 1]. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Emotion-Recognition-Android-app) |
-| **Aqib AI Hub** | Centralized interactive portfolio of my AI builds[cite: 1]. | *In Development* |
+### ⯌ Emotion Recognition App
+> Real-time text emotion analysis using a lightweight, optimized TFLite BERT model on Android[cite: 1].
+<div align="right">
+  <a href="https://github.com/MuhammadAqibAli53/Emotion-Recognition-Android-app"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+</div>
+<hr>
+
+### ⯌ Aqib AI Hub
+> Centralized interactive portfolio of my AI builds[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square">
+</div>
+<hr>
 
 </details>
 
 <details>
-<summary><b>Generative AI & LLM Applications</b></summary>
+<summary><kbd>✦ Generative AI & LLM Applications</kbd></summary>
 <br>
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **AI Prompt Optimizer** | Structures, optimizes, and generates hyper-effective prompts for LLMs[cite: 1]. | [GitHub Repo](https://github.com/MuhammadAqibAli53/AI-Prompt-Engineer-Prompt-Optimizer-Generator) |
-| **ResumeRanker AI** | Analyzes resumes and provides intelligent job-matching suggestions[cite: 1]. | *Internal Tool* |
-| **AI Resume Cover Letter** | Generates tailored, professional cover letters dynamically from profile context[cite: 1]. | *Internal Tool* |
-| **Academic Research Assistant** | Answers complex academic questions directly from uploaded PDFs[cite: 1]. | *Internal Tool* |
-| **Student RAG System** | Multi-document upload system with context-aware Q&A capabilities[cite: 1]. | *Internal Tool* |
-| **Career Adviser** | Offers personalized career advice based on user profile processing[cite: 1]. | *Internal Tool* |
+### ⯌ AI Prompt Optimizer
+> Structures, optimizes, and generates hyper-effective prompts for LLMs[cite: 1].
+<div align="right">
+  <a href="https://github.com/MuhammadAqibAli53/AI-Prompt-Engineer-Prompt-Optimizer-Generator"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+</div>
+<hr>
+
+### ⯌ ResumeRanker AI
+> Analyzes resumes and provides intelligent job-matching suggestions[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Internal_Tool-blue?style=flat-square">
+</div>
+<hr>
+
+### ⯌ AI Resume Cover Letter
+> Generates tailored, professional cover letters dynamically from profile context[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Internal_Tool-blue?style=flat-square">
+</div>
+<hr>
+
+### ⯌ Academic Research Assistant
+> Answers complex academic questions directly from uploaded PDFs[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Internal_Tool-blue?style=flat-square">
+</div>
+<hr>
+
+### ⯌ Student RAG System
+> Multi-document upload system with context-aware Q&A capabilities[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Internal_Tool-blue?style=flat-square">
+</div>
+<hr>
+
+### ⯌ Career Adviser
+> Offers personalized career advice based on user profile processing[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Internal_Tool-blue?style=flat-square">
+</div>
+<hr>
 
 </details>
 
 <details>
-<summary><b>AI Automation & Agents</b></summary>
+<summary><kbd>✦ AI Automation & Agents</kbd></summary>
 <br>
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Agent Deployer** | Framework for orchestrating and deploying autonomous AI agents[cite: 1]. | [GitHub Repo](https://github.com/MuhammadAqibAli53/Agent-deployer) |
-| **Website Code Generator** | Generates ready-to-use HTML layouts from text or image prompts[cite: 1]. | *Prototype* |
-| **GPT-Enhanced Web Scraper** | Extracts structured contact info from complex site imprints using LLMs[cite: 1]. | *Prototype* |
+### ⯌ Agent Deployer
+> Framework for orchestrating and deploying autonomous AI agents[cite: 1].
+<div align="right">
+  <a href="https://github.com/MuhammadAqibAli53/Agent-deployer"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+</div>
+<hr>
+
+### ⯌ Website Code Generator
+> Generates ready-to-use HTML layouts from text or image prompts[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Prototype-blue?style=flat-square">
+</div>
+<hr>
+
+### ⯌ GPT-Enhanced Web Scraper
+> Extracts structured contact info from complex site imprints using LLMs[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Prototype-blue?style=flat-square">
+</div>
+<hr>
 
 </details>
 
 <details>
-<summary><b>Voice & Audio AI</b></summary>
+<summary><kbd>✦ Voice & Audio AI</kbd></summary>
 <br>
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **VidScribe AI** | Transcribes, translates, and summarizes long-form video content[cite: 1]. | *Prototype* |
-| **Voice Assistant** | Interactive voice model reacting to real-time audio input[cite: 1]. | *Prototype* |
-| **AI Travel Assistant** | Location-aware answers to specific trip queries and local guide capabilities[cite: 1]. | *Prototype* |
+### ⯌ VidScribe AI
+> Transcribes, translates, and summarizes long-form video content[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Prototype-blue?style=flat-square">
+</div>
+<hr>
+
+### ⯌ Voice Assistant
+> Interactive voice model reacting to real-time audio input[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Prototype-blue?style=flat-square">
+</div>
+<hr>
+
+### ⯌ AI Travel Assistant
+> Location-aware answers to specific trip queries and local guide capabilities[cite: 1].
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Prototype-blue?style=flat-square">
+</div>
+<hr>
 
 </details>
 
 ---
 
-## Research & Deep Learning
+## ❖ Research & Deep Learning
 > *Focus: Creating reliable, explainable models for critical domains.*
 
 *   **Medical Imaging:** Building pipelines for Parkinson's disease classification and Diabetic Retinopathy grading using diverse datasets[cite: 1].
 *   **Advanced Architectures:** Experimenting with Transformer-based models, Vision Transformers, and robust CNN ensembles[cite: 1].
 *   **Explainable AI (XAI):** Utilizing techniques like SHAP and LIME to ensure model decisions are transparent and trustworthy[cite: 1].
 
-## Full-Stack Development
+## ❖ Full-Stack Development
 > *Focus: Turning AI models into usable software products.*
 
 I bridge the gap between machine learning and end-users by connecting Python-based AI processing with robust Laravel backends and dynamic React/React Native frontends through scalable REST APIs[cite: 1]. 
 
-## Cybersecurity Interests
+## ❖ Cybersecurity Interests
 > *Focus: Secure software and system design.*
 
 I have a strong foundational interest in system security, demonstrated by secure software design utilizing Data Flow Diagrams (DFDs)[cite: 1], and research into vehicular network security and intrusion detection using Deep Reinforcement Learning[cite: 1].
 
 ---
 
-## What I Build & Engineering Approach
+## ❖ What I Build & Engineering Approach
 
 **I build:**
 *   AI-powered web applications and Full-stack platforms[cite: 1].
@@ -154,7 +256,7 @@ Build practical solutions. Keep systems maintainable. Focus on measurable evalua
 
 ---
 
-## GitHub Statistics
+## ❖ GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAqibAli53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
