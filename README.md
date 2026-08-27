@@ -1,177 +1,470 @@
-<h1 align="center">Hey there, I'm Muhammad Aqib Ali</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer | GenAI & Machine Learning Engineer | Cybersecurity Enthusiast</h3>
+# Muhammad Aqib Ali
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+systems;Fine-tuning+LLMs+%26+deploying+ML+pipelines;Full-Stack+%2B+AI+%2B+Cybersecurity" alt="Typing SVG" />
+### Computer Science Developer · AI/ML & Deep Learning · Generative AI · Full-Stack Development
+
+Building practical intelligent systems by combining **software engineering, artificial intelligence, research, and security**.
+
+<p>
+  <a href="https://github.com/MuhammadAqibAli53">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-aqib-ali-0b95222b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://huggingface.co/aqibali06">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
+  <a href="mailto:m.aqibali1m.aqibali1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-aqib-ali-0b95222b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://huggingface.co/aqibali06"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
-  <a href="mailto:m.aqibali1m.aqibali1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+</div>
 
 ---
 
-### About Me
+## About Me
 
-I'm a Computer Science student at **UET Lahore (Rachna College of Engineering & Technology, Gujranwala)**, passionate about building intelligent, secure, and scalable software. I enjoy combining full-stack engineering with applied AI to design systems that are practical, well-tested, and ready for real-world use.
+I'm a **Computer Science student at UET Lahore (Rachna College of Engineering & Technology, Gujranwala)** with a strong interest in building practical, intelligent, and research-oriented software systems.
 
-🔬 **Currently building:** An AI-Driven VR Neuro-Rehabilitation Platform (Final Year Project) covering phobia exposure therapy, ADHD rehabilitation, and ASD sensory regulation with a unified clinician dashboard.
+My work sits at the intersection of:
 
----
+* Artificial Intelligence & Machine Learning
+* Deep Learning & Computer Vision
+* Generative AI, LLMs & RAG
+* NLP and intelligent applications
+* Full-Stack Web Development
+* AI-powered software systems
+* Cybersecurity and secure software design
+* Research-driven experimentation
 
-### Tech Stack & Skills
-
-**Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-</p>
-
-**Frameworks & Web**
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/MVC%20Architecture-2F80ED?style=flat-square">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square">
-  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-</p>
-
-**AI / Deep Learning**
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/XGBoost-0E76A8?style=flat-square">
-  <img src="https://img.shields.io/badge/CNNs-8A2BE2?style=flat-square">
-  <img src="https://img.shields.io/badge/Transformers-FFB000?style=flat-square">
-  <img src="https://img.shields.io/badge/Vision%20Transformers-4B0082?style=flat-square">
-  <img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square">
-  <img src="https://img.shields.io/badge/Generative%20AI-6E44FF?style=flat-square">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00B4D8?style=flat-square">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/SHAP%20%2F%20LIME-2E8B57?style=flat-square">
-</p>
-
-**Tools & Platforms**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20NDK-3DDC84?style=flat-square&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Meta%20Quest%20VR-000000?style=flat-square&logo=meta&logoColor=white">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
-  <img src="https://img.shields.io/badge/Cybersecurity-FF4B4B?style=flat-square">
-</p>
+I enjoy taking an idea beyond a model or prototype and turning it into a **usable software application** through model development, evaluation, APIs, interfaces, and application integration.
 
 ---
 
-### Featured Research & Academic Projects
+## Currently Building
 
-> These are my strongest, most differentiated technical projects — the ones I lead with when talking to recruiters.
+### AI-Driven VR Neuro-Rehabilitation Platform
 
-| Project | Description |
-|---|---|
-| 🧠 **Parkinson's Disease Classification** | 11-model DL pipeline on the PPMI dataset (CNN, VGG16, ViT, XGBoost, ensembles) with SHAP/LIME explainability. |
-| 🕶️ **AI-Driven VR Neuro-Rehabilitation Platform** *(FYP)* | Meta Quest VR platform for phobia, ADHD, and ASD therapy with a unified clinician dashboard. |
-| 👁️ **Diabetic Retinopathy Grading** | Messidor-2 dataset with CLAHE, Focal Loss, CBAM attention, and a VGG16/ResNet50/InceptionV4-style ensemble. |
-| 🚗 **IoV Intrusion Detection (Deep RL)** | Dueling Double DQN + Prioritized Experience Replay for vehicular network intrusion detection (VeReMi dataset). |
+My current Final Year Project is an academic/research-oriented platform exploring how **Virtual Reality and intelligent software systems** can support technology-assisted neuro-rehabilitation scenarios.
+
+**Current focus areas include:**
+
+* **Phobia exposure** through VR-based environments
+* **ADHD rehabilitation** activities
+* **ASD sensory regulation** scenarios
+* Interactive VR experiences using **Meta Quest**
+* A unified **clinician dashboard**
+* Structured interaction and monitoring within the platform
+
+> This is an academic technology project and is not presented as a clinically validated medical product.
 
 ---
 
-### AI Ecosystem & Deployed Tools (Hugging Face + GitHub)
+# Technical Expertise
 
-<details open>
-<summary><b>Computer Vision & Core AI Hub</b></summary>
+## Programming
+
+| Technology     | Practical Focus                                                         |
+| -------------- | ----------------------------------------------------------------------- |
+| **Python**     | AI/ML development, data processing, automation and application backends |
+| **C++**        | Programming fundamentals, algorithms and system-oriented development    |
+| **PHP**        | Web and backend development                                             |
+| **JavaScript** | Interactive web applications and frontend development                   |
+| **HTML / CSS** | Web interfaces and responsive UI development                            |
+| **SQL**        | Database interaction and application data management                    |
+
+## AI & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Generative AI
+* Model evaluation
+* Feature engineering
+* Explainable AI
+* AI application integration
+
+## Deep Learning & AI Technologies
+
+| Technology              | Practical Focus                                                 |
+| ----------------------- | --------------------------------------------------------------- |
+| **TensorFlow**          | Deep learning model development and application integration     |
+| **PyTorch**             | Deep learning experimentation, model development and evaluation |
+| **Scikit-learn**        | Machine learning pipelines and model evaluation                 |
+| **XGBoost**             | Machine learning and classification experiments                 |
+| **CNNs**                | Image classification and computer vision                        |
+| **VGG16**               | Transfer-learning and image classification experiments          |
+| **Vision Transformers** | Transformer-based computer vision research                      |
+| **Transformers**        | Modern NLP and AI experimentation                               |
+| **BERT**                | NLP and lightweight model applications                          |
+| **TFLite**              | Lightweight AI model deployment                                 |
+| **SHAP / LIME**         | Model explainability and interpretation                         |
+
+## Generative AI & Intelligent Systems
+
+* LLM-powered applications
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* AI Assistants
+* Document Question Answering
+* Resume intelligence
+* Voice-based AI applications
+* AI-powered automation
+* Hugging Face ecosystem
+* API-based AI integration
+
+## Web & Full-Stack Development
+
+* **Laravel**
+* **MVC Architecture**
+* **React**
+* **React Native**
+* **PHP**
+* **JavaScript**
+* **HTML5 / CSS3**
+* **REST APIs**
+* **SQL**
+* AI model integration
+* Backend/frontend integration
+* AI-powered web applications
+
+## Tools & Platforms
+
+* Git
+* GitHub
+* Hugging Face
+* Kaggle
+* Google Colab
+* Meta Quest
+* Android NDK
+
+## Cybersecurity
+
+My cybersecurity interests are focused around the intersection of **secure software, networks, AI, and intelligent security systems**.
+
+Areas explored include:
+
+* Secure Software Design
+* Data Flow Diagrams
+* Network Security
+* Vehicular Network Security
+* Intrusion Detection
+* Security-focused AI systems
+* Security research and experimentation
+
+---
+
+# Featured Projects
+
+These projects represent the areas where I combine research, machine learning, software engineering, and practical application development.
+
+## 1. Parkinson's Disease Classification
+
+A research-oriented deep learning project using the **PPMI dataset** to investigate Parkinson's disease classification through multiple machine learning and deep learning approaches.
+
+**Techniques explored:**
+
+* CNN
+* VGG16
+* Vision Transformer
+* Transformers
+* XGBoost
+* Ensemble methods
+* SHAP
+* LIME
+
+**Kaggle Notebook:**
+https://www.kaggle.com/code/muhammadaqibali/ppmi-pd-classification-ml-dl-transformer
+
+---
+
+## 2. Potato Disease Classification
+
+A deep-learning-powered web application for identifying potato leaf diseases from images.
+
+The project focuses on classification of:
+
+* Early Blight
+* Late Blight
+
+**Repository:**
+https://github.com/MuhammadAqibAli53/Potato_Disease_classification
+
+---
+
+## 3. AI-Driven VR Neuro-Rehabilitation Platform
+
+An academic Final Year Project exploring the use of **VR technology for technology-assisted rehabilitation scenarios**.
+
+The platform focuses on:
+
+* Phobia exposure environments
+* ADHD rehabilitation activities
+* ASD sensory regulation
+* Meta Quest VR interaction
+* Clinician-facing dashboard
+
+The project combines **VR, software engineering, intelligent systems, and structured user interaction** into a unified platform.
+
+---
+
+## 4. Diabetic Retinopathy Grading
+
+A research-oriented medical imaging project using the **Messidor-2 dataset**.
+
+The experimentation incorporates:
+
+* CLAHE preprocessing
+* Focal Loss
+* CBAM attention
+* VGG16
+* ResNet50
+* Inception-style architecture
+* Ensemble-based approaches
+
+The project focuses on exploring deep learning techniques for automated diabetic retinopathy grading.
+
+---
+
+## 5. IoV Intrusion Detection
+
+A deep reinforcement learning project focused on **intrusion detection in Internet of Vehicles (IoV)** environments.
+
+**Core technologies:**
+
+* VeReMi dataset
+* Deep Reinforcement Learning
+* Dueling Double DQN
+* Prioritized Experience Replay
+
+The project explores intelligent approaches to detecting malicious or anomalous behavior within vehicular network environments.
+
+---
+
+# Research & Deep Learning
+
+My research-oriented work focuses on applying modern AI techniques to challenging real-world domains.
+
+### Areas explored
+
+* Medical imaging
+* Parkinson's disease classification
+* Diabetic retinopathy
+* Computer vision
+* CNN architectures
+* Transformer-based models
+* Vision Transformers
+* Explainable AI
+* Deep reinforcement learning
+* Vehicular network security
+
+I am particularly interested in understanding not only **whether a model works**, but also how different architectures, preprocessing strategies, evaluation methods, and explainability techniques affect an AI system.
+
+---
+
+# Generative AI & Intelligent Applications
+
+Beyond conventional machine learning, I build applications that integrate **LLMs and generative AI into usable software**.
+
+My portfolio includes projects involving:
+
+* LLM applications
+* Prompt engineering
+* RAG systems
+* AI agents
+* Document Q&A
+* Resume intelligence
+* Career guidance
+* Voice AI
+* AI-powered automation
+* AI model/API integration
+
+This work reflects my interest in moving from:
+
+**Model → Application → Usable Intelligent System**
+
+---
+
+# AI Project Portfolio
+
+<details>
+<summary><strong>Computer Vision & AI</strong></summary>
+
 <br>
 
-| Project | Description | Repo | Live Demo |
-|---|---|:---:|:---:|
-| Potato Disease Classifier | Classifies potato leaf health from a photo using deep learning | [GitHub](#) | [HF Space](#) |
-| Aqib AI Hub | Centralized interactive portfolio of my AI builds | [GitHub](#) | [HF Space](#) |
+| Project                                | Description                                                                     |
+| -------------------------------------- | ------------------------------------------------------------------------------- |
+| **Potato Disease Classifier**          | Deep-learning application for potato leaf disease classification                |
+| **Parkinson's Disease Classification** | ML/DL research using PPMI data, CNNs, Transformers, XGBoost and explainability  |
+| **Diabetic Retinopathy Grading**       | Medical imaging research using Messidor-2 and multiple deep learning approaches |
 
 </details>
 
 <details>
-<summary><b>Productivity, HR & EdTech Tools</b></summary>
+<summary><strong>Generative AI, LLM & RAG</strong></summary>
+
 <br>
 
-| Project | Description | Repo | Live Demo |
-|---|---|:---:|:---:|
-| ResumeRanker AI | Analyzes resumes and gives smart job-matching suggestions | [GitHub](#) | [HF Space](#) |
-| AI Resume Cover Letter Builder | Generates tailored, professional cover letters from profile context | [GitHub](#) | [HF Space](#) |
-| Academic Research Assistant | Answers complex academic questions from uploaded PDFs | [GitHub](#) | [HF Space](#) |
-| Student RAG System | Multi-document upload with context-aware Q&A | [GitHub](#) | [HF Space](#) |
-| Career Adviser | Personalized career advice based on a user profile | [GitHub](#) | [HF Space](#) |
+| Project                              | Description                                                           |
+| ------------------------------------ | --------------------------------------------------------------------- |
+| **ResumeRanker AI**                  | AI-assisted resume analysis and job-matching suggestions              |
+| **AI Resume & Cover Letter Builder** | Generates tailored resumes and professional cover letters             |
+| **Academic Research Assistant**      | AI assistant for answering research questions from uploaded documents |
+| **Student RAG System**               | Multi-document, context-aware question answering                      |
+| **Career Adviser**                   | Personalized AI-assisted career guidance                              |
+| **AI Prompt Engineer**               | Prompt structuring, optimization and generation                       |
+| **Agent Deployer**                   | Framework for orchestrating and deploying autonomous AI agents        |
 
 </details>
 
 <details>
-<summary><b>Intelligent Automation & Scrapers</b></summary>
+<summary><strong>Automation & AI-Powered Development</strong></summary>
+
 <br>
 
-| Project | Description | Repo | Live Demo |
-|---|---|:---:|:---:|
-| Website Code Generator | Generates ready-to-use HTML from text or images | [GitHub](#) | [HF Space](#) |
-| Web Scraper | Extracts contact details from imprint pages | [GitHub](#) | [HF Space](#) |
-| GPT-Enhanced Web Scraper | Extracts structured contact info from complex site imprints | [GitHub](#) | [HF Space](#) |
+| Project                      | Description                                                         |
+| ---------------------------- | ------------------------------------------------------------------- |
+| **Website Code Generator**   | Generates frontend HTML from text or image-based design input       |
+| **Web Scraper**              | Extracts contact information from website imprint pages             |
+| **GPT-Enhanced Web Scraper** | Uses AI to structure contact information from complex imprint pages |
 
 </details>
 
 <details>
-<summary><b>Media, Voice & Agents</b></summary>
+<summary><strong>Voice, Media & AI Assistants</strong></summary>
+
 <br>
 
-| Project | Description | Repo | Live Demo |
-|---|---|:---:|:---:|
-| VidScribe AI | Transcribes, translates, and summarizes videos | [GitHub](#) | [HF Space](#) |
-| Voice Assistant | Interactive voice model reacting to real-time audio | [GitHub](#) | [HF Space](#) |
-| AI Model Fetcher | Smart AI engine responses from spoken voice input | [GitHub](#) | [HF Space](#) |
-| Tourist Guide Bot | AI local travel guide using Gradio + LLMs | [GitHub](#) | [HF Space](#) |
-| AI Travel Assistant | Location-aware answers to specific trip queries | [GitHub](#) | [HF Space](#) |
+| Project                 | Description                                               |
+| ----------------------- | --------------------------------------------------------- |
+| **VidScribe AI**        | Video transcription, translation and summarization        |
+| **Voice Assistant**     | Interactive AI system responding to real-time voice input |
+| **AI Model Fetcher**    | AI responses generated from spoken voice input            |
+| **Tourist Guide Bot**   | AI-powered local travel guidance using Gradio and LLMs    |
+| **AI Travel Assistant** | Location-aware AI assistance for travel-related queries   |
 
 </details>
 
 ---
 
-### Other Highlighted Repos
+# Full-Stack Development
 
-- 🏆 **[Emotion-Recognition-Android-app](https://github.com/MuhammadAqibAli53/Emotion-Recognition-Android-app)** — Real-time text emotion analysis using a lightweight, optimized TFLite BERT model
-- 🧩 **[AI-Prompt-Engineer-Prompt-Optimizer-Generator](https://github.com/MuhammadAqibAli53/AI-Prompt-Engineer-Prompt-Optimizer-Generator)** — Structures, optimizes, and generates hyper-effective prompts for LLMs
-- 🕸️ **[Agent-deployer](https://github.com/MuhammadAqibAli53/Agent-deployer)** — Framework for orchestrating and deploying autonomous AI agents
-- 🔒 **Secure-software-design-DFD** — Data flow diagram-based secure software design work
+### Turning AI models into usable software products.
 
----
+My development interests extend beyond model training. I work on the surrounding software required to turn intelligent systems into practical applications:
 
-### GitHub Stats
+* Backend development
+* Frontend development
+* REST API integration
+* Laravel applications
+* React interfaces
+* React Native applications
+* Database integration
+* AI model integration
+* Application architecture
+* Deployment-oriented software
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAqibAli53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAqibAli53&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAqibAli53&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAqibAli53&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+The goal is to bridge the gap between **AI experimentation and usable software**.
 
 ---
 
-### Connect With Me
+# What I Build
+
+I am particularly interested in developing:
+
+* AI-powered web applications
+* Machine learning pipelines
+* Deep learning systems
+* Computer vision applications
+* LLM and RAG applications
+* AI agents
+* Voice AI applications
+* Full-stack platforms
+* AI-integrated mobile applications
+* Research prototypes
+* Security-focused intelligent systems
+
+---
+
+# Engineering Approach
+
+I aim to keep my projects focused on:
+
+* **Practical implementation** rather than experimentation alone
+* **Clean and maintainable architecture**
+* **Meaningful model evaluation**
+* **Research-backed technical decisions**
+* **AI integrated into usable applications**
+* **Continuous learning and experimentation**
+
+---
+
+# Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Computer Vision
+* NLP
+* LLMs
+* RAG
+* AI Agents
+* Cybersecurity
+* Software Engineering
+* Research
+* Emerging AI technologies
+
+---
+
+# Selected Repositories
+
+* **[Emotion Recognition Android App](https://github.com/MuhammadAqibAli53/Emotion-Recognition-Android-app)** — Real-time text emotion analysis using a lightweight TFLite BERT model.
+* **[AI Prompt Engineer](https://github.com/MuhammadAqibAli53/AI-Prompt-Engineer-Prompt-Optimizer-Generator)** — Structures, optimizes and generates effective prompts for LLM-based systems.
+* **[Agent Deployer](https://github.com/MuhammadAqibAli53/Agent-deployer)** — Framework for orchestrating and deploying autonomous AI agents.
+* **Secure Software Design / DFD** — Security-focused software design work involving data flow diagrams.
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAqibAli53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Aqib Ali GitHub Stats">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAqibAli53&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+<br>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=MuhammadAqibAli53&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+
+</div>
+
+---
+
+# Let's Connect
+
+I'm open to connecting with **developers, researchers, recruiters, clients, and collaborators** interested in AI, software engineering, research, and intelligent applications.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-aqib-ali-0b95222b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://huggingface.co/aqibali06"><img src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
-  <a href="https://huggingface.co/aqibali06/spaces"><img src="https://img.shields.io/badge/Spaces-Explore-yellow?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+  <a href="https://github.com/MuhammadAqibAli53">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/muhammad-aqib-ali-0b95222b9">LinkedIn</a> ·
+  <a href="https://huggingface.co/aqibali06">Hugging Face</a> ·
+  <a href="https://huggingface.co/aqibali06/spaces">Hugging Face Spaces</a> ·
+  <a href="mailto:m.aqibali1m.aqibali1@gmail.com">Email</a>
 </p>
+
+---
+
+<div align="center">
+
+### Building at the intersection of AI, software engineering, research, and security.
+
+**Explore the repositories to see the work behind the profile.**
+
+</div>
